@@ -1,0 +1,2 @@
+# Hacking-Narratif-Agent-Hybride-de-Transformation-Symbolique
+Fonctionnalité : Analyser et transformer des récits — qu'ils soient personnels (récit de soi bloquant) ou collectifs (discours, organisation, situation stratégique) — en identifiant les structures narratives sous-jacentes, les archétypes actifs, et en produisant soit une réécriture symbolique du récit, soit des scénarios d'évolution prospectifs.
